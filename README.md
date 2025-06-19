@@ -7,7 +7,7 @@ Bu yönetim paneli, bir e-ticaret veya içerik yönetim sisteminde ihtiyaç duyu
 Tamamen responsive (mobil uyumlu) tasarımı sayesinde tüm cihazlarda rahatlıkla kullanılabilir.
 Bootstrap kütüphanesi kullanılarak modern ve sade bir arayüz oluşturulmuştur.
 
-```
+````
 
 🚀 Özellikler
 🛠️ Admin Bölümü: Yönetici işlemlerinin yapıldığı ana kontrol paneli.
