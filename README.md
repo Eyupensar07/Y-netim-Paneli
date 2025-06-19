@@ -1,13 +1,13 @@
 🎛️ Yönetim Paneli
 
-```
+
 
 📌 Proje Hakkında
 Bu yönetim paneli, bir e-ticaret veya içerik yönetim sisteminde ihtiyaç duyulan temel yönetim işlevlerini barındırır.
 Tamamen responsive (mobil uyumlu) tasarımı sayesinde tüm cihazlarda rahatlıkla kullanılabilir.
 Bootstrap kütüphanesi kullanılarak modern ve sade bir arayüz oluşturulmuştur.
 
-````
+
 
 🚀 Özellikler
 🛠️ Admin Bölümü: Yönetici işlemlerinin yapıldığı ana kontrol paneli.
@@ -22,14 +22,13 @@ Bootstrap kütüphanesi kullanılarak modern ve sade bir arayüz oluşturulmuşt
 📑 Sipariş: Kullanıcıların verdiği siparişlerin takibi ve yönetimi.
 🔑 Giriş Bölümü: Yönetici ve kullanıcıların sisteme giriş yapabilmesi için tasarlanmıştır.
 
-```
+
 
 🛠️ Teknolojiler
 
 Bootstrap CSS framework
 Responsive tasarım
 
-```
 
 🎛️ Admin Panel
 
@@ -38,7 +37,7 @@ Responsive tasarım
 This admin panel includes essential management features needed for an e-commerce or content management system.
 It is fully responsive and works smoothly on all device sizes.
 The interface is designed with Bootstrap for a modern and clean look.
-```
+
 🚀 Features
 
 🛠️ Admin Section: Main dashboard where admin operations are handled.
@@ -53,11 +52,11 @@ The interface is designed with Bootstrap for a modern and clean look.
 📑 Orders: Track and manage user orders.
 🔑 Login Section: Login area for admins and users to access the system.
 
-```
+
 
 🛠️ Technologies
 
 Bootstrap CSS framework
 Responsive design
 
-```
+
