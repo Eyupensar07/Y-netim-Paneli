@@ -38,6 +38,7 @@ Bootstrap kütüphanesi kullanılarak modern ve sade bir arayüz oluşturulmuşt
 🛠️ Teknolojiler
 
 Bootstrap CSS framework
+
 Responsive tasarım
 
 
@@ -78,6 +79,7 @@ The interface is designed with Bootstrap for a modern and clean look.
 🛠️ Technologies
 
 Bootstrap CSS framework
+
 Responsive design
 
 
