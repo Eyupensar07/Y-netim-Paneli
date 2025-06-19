@@ -1,7 +1,7 @@
 🎛️ Yönetim Paneli
 
 
-
+ 
 📌 Proje Hakkında
 Bu yönetim paneli, bir e-ticaret veya içerik yönetim sisteminde ihtiyaç duyulan temel yönetim işlevlerini barındırır.
 Tamamen responsive (mobil uyumlu) tasarımı sayesinde tüm cihazlarda rahatlıkla kullanılabilir.
